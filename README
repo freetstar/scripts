@@ -1,0 +1,2 @@
+bookmark2vimwiki.py 用来将firefox的bison格式的书签转换成书签列表，书签列表按照层次显示
+vod.py   用来显示天津师范大学Vod资源的地址，使用方法python vod.py 丁丁历险记
